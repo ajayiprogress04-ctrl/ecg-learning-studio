@@ -1,0 +1,1286 @@
+[
+  {
+    "term": "Depolarisation",
+    "definition": "A change in cellular membrane potential associated with electrical activation.",
+    "aliases": [
+      "depolarization"
+    ]
+  },
+  {
+    "term": "Repolarisation",
+    "definition": "The electrical recovery process following depolarisation.",
+    "aliases": [
+      "repolarization"
+    ]
+  },
+  {
+    "term": "His–Purkinje system",
+    "definition": "The specialised conduction network that normally activates the ventricles rapidly.",
+    "aliases": [
+      "His-Purkinje system",
+      "His–Purkinje network",
+      "His-Purkinje network"
+    ]
+  },
+  {
+    "term": "Electrode",
+    "definition": "A physical skin contact used to acquire an electrical potential.",
+    "aliases": [
+      "electrodes"
+    ]
+  },
+  {
+    "term": "Lead",
+    "definition": "A defined electrical viewpoint formed from a potential difference.",
+    "aliases": [
+      "leads"
+    ]
+  },
+  {
+    "term": "Einthoven’s relationship",
+    "definition": "For simultaneous bipolar limb-lead signals, lead II = lead I + lead III."
+  },
+  {
+    "term": "Frontal plane",
+    "definition": "The plane describing right–left and superior–inferior directions."
+  },
+  {
+    "term": "Hexaxial reference system",
+    "definition": "The six standard frontal-plane limb-lead axes arranged around the heart."
+  },
+  {
+    "term": "Projection",
+    "definition": "The component of an electrical vector along a chosen lead axis."
+  },
+  {
+    "term": "Precordial leads",
+    "definition": "The six chest leads V1–V6, which view electrical activity in the horizontal plane.",
+    "aliases": [
+      "chest leads"
+    ]
+  },
+  {
+    "term": "Wilson’s central terminal",
+    "definition": "The reference potential derived from the three active limb electrodes for the chest leads."
+  },
+  {
+    "term": "Intercostal space",
+    "definition": "An anatomical space between adjacent ribs."
+  },
+  {
+    "term": "QS complex",
+    "definition": "A QRS complex that is entirely negative."
+  },
+  {
+    "term": "J point",
+    "definition": "The junction between the end of QRS and the ST segment."
+  },
+  {
+    "term": "Interval",
+    "definition": "A measured period defined by specified waveform boundaries."
+  },
+  {
+    "term": "Paper speed",
+    "definition": "The horizontal recording scale, usually expressed in mm/s."
+  },
+  {
+    "term": "Gain",
+    "definition": "The vertical calibration, usually expressed in mm/mV."
+  },
+  {
+    "term": "Calibration pulse",
+    "definition": "A known signal displayed to indicate the recording scale."
+  },
+  {
+    "term": "R–R interval",
+    "definition": "The time between corresponding points on successive ventricular complexes.",
+    "aliases": [
+      "R-R interval"
+    ]
+  },
+  {
+    "term": "Ventricular rate",
+    "definition": "The number of ventricular activations per minute."
+  },
+  {
+    "term": "Regular rhythm",
+    "definition": "A rhythm with approximately consistent successive cycle lengths."
+  },
+  {
+    "term": "PR interval",
+    "definition": "Time from P-wave onset to QRS onset."
+  },
+  {
+    "term": "QRS duration",
+    "definition": "Time from the beginning to the end of ventricular depolarisation."
+  },
+  {
+    "term": "Broad complex",
+    "definition": "A descriptive term for prolonged ventricular activation, interpreted using the relevant task-specific threshold."
+  },
+  {
+    "term": "QT interval",
+    "definition": "Time from QRS onset to the end of the T wave."
+  },
+  {
+    "term": "QTc",
+    "definition": "A heart-rate-corrected estimate of QT using a named correction formula.",
+    "aliases": [
+      "corrected QT interval"
+    ]
+  },
+  {
+    "term": "Bazett formula",
+    "definition": "QTc = QT divided by the square root of RR, with RR in seconds."
+  },
+  {
+    "term": "Sinus rhythm",
+    "definition": "A rhythm originating from the sinus node, recognised using appropriate atrial activation and timing."
+  },
+  {
+    "term": "Retrograde atrial activation",
+    "definition": "Activation spreading through the atria in a direction opposite to the usual sinus sequence."
+  },
+  {
+    "term": "One-to-one conduction",
+    "definition": "A relationship in which each relevant atrial activation is associated with one ventricular activation."
+  },
+  {
+    "term": "R-wave progression",
+    "definition": "The changing relative R and S amplitudes across the chest leads."
+  },
+  {
+    "term": "Normal variant",
+    "definition": "An ECG pattern that may occur without disease in an appropriate context, but still requires careful assessment."
+  },
+  {
+    "term": "Concordance",
+    "definition": "A relationship in which compared waveform directions are similar; its significance depends on the feature and leads being assessed."
+  },
+  {
+    "term": "Mean QRS axis",
+    "definition": "The overall frontal-plane direction of ventricular depolarisation."
+  },
+  {
+    "term": "Left-axis deviation",
+    "definition": "An axis more leftward than the usual adult −30° boundary."
+  },
+  {
+    "term": "Right-axis deviation",
+    "definition": "An axis more rightward than the usual adult +90° boundary."
+  },
+  {
+    "term": "Predominantly positive QRS",
+    "definition": "A complex whose positive contribution exceeds its negative contribution overall."
+  },
+  {
+    "term": "Quadrant method",
+    "definition": "A regional axis estimate based on the signs of selected perpendicular limb leads."
+  },
+  {
+    "term": "Boundary lead",
+    "definition": "A lead whose polarity helps determine which side of a category boundary the axis lies on."
+  },
+  {
+    "term": "Equiphasic QRS",
+    "definition": "A QRS complex with approximately balanced positive and negative components."
+  },
+  {
+    "term": "Perpendicular method",
+    "definition": "An axis estimate using a balanced lead and the polarity of a lead at 90° to it."
+  },
+  {
+    "term": "Indeterminate axis",
+    "definition": "An axis that cannot be meaningfully assigned from the available frontal-plane QRS balance."
+  },
+  {
+    "term": "Half-plane",
+    "definition": "A 180° region of possible vector directions constrained by one lead’s polarity."
+  },
+  {
+    "term": "Electrode interchange",
+    "definition": "Incorrect connection of labelled electrodes, potentially altering ECG appearances."
+  },
+  {
+    "term": "Differential interpretation",
+    "definition": "Considering several possible explanations for a described ECG finding."
+  },
+  {
+    "term": "Sinus tachycardia",
+    "definition": "A sinus-origin rhythm with a rate above the usual adult resting range."
+  },
+  {
+    "term": "Sinus arrhythmia",
+    "definition": "Variation in timing between sinus-origin activations."
+  },
+  {
+    "term": "Wandering atrial pacemaker",
+    "definition": "An atrial rhythm pattern with changing P-wave morphology and irregular atrial timing."
+  },
+  {
+    "term": "Premature atrial beat",
+    "definition": "An atrial depolarisation arising earlier than expected outside the sinus node."
+  },
+  {
+    "term": "Concealed P wave",
+    "definition": "A P wave partly or wholly obscured by another waveform."
+  },
+  {
+    "term": "Aberrant conduction",
+    "definition": "Altered ventricular activation of a supraventricular impulse through an abnormal conduction pattern."
+  },
+  {
+    "term": "Focal atrial tachycardia",
+    "definition": "An organised atrial tachycardia arising from a localised non-sinus origin."
+  },
+  {
+    "term": "Warm-up phenomenon",
+    "definition": "Gradual acceleration that can occur with an automatic tachycardia mechanism."
+  },
+  {
+    "term": "Atrioventricular conduction ratio",
+    "definition": "The relation between the number of atrial activations and conducted ventricular activations."
+  },
+  {
+    "term": "AVNRT",
+    "definition": "Atrioventricular nodal re-entrant tachycardia, involving re-entry through AV nodal pathways."
+  },
+  {
+    "term": "AVRT",
+    "definition": "Atrioventricular re-entrant tachycardia using an accessory pathway as part of its circuit."
+  },
+  {
+    "term": "Concealed accessory pathway",
+    "definition": "An accessory pathway without manifest antegrade pre-excitation on the sinus ECG, often conducting retrogradely."
+  },
+  {
+    "term": "Junctional escape rhythm",
+    "definition": "A subsidiary junctional rhythm that activates the heart when higher pacemaker activity is too slow or fails to arrive in time."
+  },
+  {
+    "term": "Accelerated junctional rhythm",
+    "definition": "A junctional rhythm with increased automaticity relative to the competing sinus pacemaker."
+  },
+  {
+    "term": "AV dissociation",
+    "definition": "Independent activation of atria and ventricles."
+  },
+  {
+    "term": "Atrial fibrillation",
+    "definition": "Disorganised atrial electrical activation without a consistent repeating discrete P-wave pattern."
+  },
+  {
+    "term": "Fibrillatory activity",
+    "definition": "The irregular atrial electrical activity associated with AF."
+  },
+  {
+    "term": "Irregularly irregular",
+    "definition": "A rhythm description in which successive cycle lengths vary without a repeating pattern."
+  },
+  {
+    "term": "Atrial flutter",
+    "definition": "An organised rapid atrial tachyarrhythmia, commonly sustained by macro-re-entry."
+  },
+  {
+    "term": "Flutter wave",
+    "definition": "A repetitive atrial deflection generated during atrial flutter."
+  },
+  {
+    "term": "2:1 conduction",
+    "definition": "Two atrial activations for each conducted ventricular activation."
+  },
+  {
+    "term": "Escape beat",
+    "definition": "A later impulse from a subsidiary pacemaker when the expected dominant impulse is absent or delayed."
+  },
+  {
+    "term": "Sinoatrial exit block",
+    "definition": "Failure of a sinus impulse to reach and activate the atria; the sinus discharge is not directly visible on a surface ECG."
+  },
+  {
+    "term": "Fascicular block",
+    "definition": "Delayed conduction within a subdivision of the left bundle system, inferred from a characteristic activation pattern."
+  },
+  {
+    "term": "Secondary repolarisation change",
+    "definition": "An ST–T alteration resulting from an abnormal ventricular depolarisation sequence."
+  },
+  {
+    "term": "Wenckebach",
+    "definition": "A typical Mobitz I sequence of progressive AV conduction delay before a non-conducted atrial impulse."
+  },
+  {
+    "term": "2:1 AV block",
+    "definition": "An AV conduction pattern with two atrial depolarisations for every ventricular response."
+  },
+  {
+    "term": "High-grade AV block",
+    "definition": "Advanced AV block with multiple consecutive non-conducted atrial impulses; state the actual observed pattern."
+  },
+  {
+    "term": "Complete AV block",
+    "definition": "A conduction disturbance in which atrial impulses fail to reach the ventricles during the observed interval."
+  },
+  {
+    "term": "Conduction ratio",
+    "definition": "The counted relation of atrial depolarisations to ventricular responses in a defined ECG segment.",
+    "aliases": [
+      "conduction ratios"
+    ]
+  },
+  {
+    "term": "Ventricular standstill",
+    "definition": "An interval without ventricular depolarisation; distinguish it from absent atrial activity and artefact."
+  },
+  {
+    "term": "Interpolated premature beat",
+    "definition": "A premature beat inserted between baseline beats without the usual ensuing compensatory pause."
+  },
+  {
+    "term": "Couplet",
+    "definition": "Two consecutive ventricular premature beats."
+  },
+  {
+    "term": "Capture beat",
+    "definition": "A supraventricular impulse that successfully activates the ventricles during an otherwise ventricular rhythm."
+  },
+  {
+    "term": "Fusion beat",
+    "definition": "A QRS produced by combined ventricular activation from competing wavefronts."
+  },
+  {
+    "term": "Precordial concordance",
+    "definition": "QRS complexes with the same dominant polarity across the chest leads."
+  },
+  {
+    "term": "Monomorphic VT",
+    "definition": "Ventricular tachycardia with a broadly uniform QRS appearance from beat to beat in a given lead."
+  },
+  {
+    "term": "Polymorphic VT",
+    "definition": "Ventricular tachycardia with varying QRS morphology from beat to beat."
+  },
+  {
+    "term": "Torsades de pointes",
+    "definition": "A polymorphic VT associated with a long-QT repolarisation context and characteristic changing QRS axis/amplitude."
+  },
+  {
+    "term": "Escape rhythm",
+    "definition": "A rhythm maintained by a subsidiary pacemaker when dominant impulses are too slow or fail to arrive."
+  },
+  {
+    "term": "Regularised AF response",
+    "definition": "A ventricular response in AF that becomes unusually regular, requiring assessment for pacing, block or another pacemaker."
+  },
+  {
+    "term": "Ashman phenomenon",
+    "definition": "Cycle-length-dependent aberrant conduction classically associated with a long–short RR sequence in AF."
+  },
+  {
+    "term": "Non-conducted atrial premature beat",
+    "definition": "An early atrial depolarisation that is not followed by a ventricular QRS response."
+  },
+  {
+    "term": "Atrial bigeminy",
+    "definition": "A repeating atrial pattern in which baseline atrial beats alternate with premature atrial beats."
+  },
+  {
+    "term": "Variable AV conduction",
+    "definition": "A changing proportion of atrial impulses producing ventricular responses."
+  },
+  {
+    "term": "Atrial tachycardia",
+    "definition": "A tachycardia originating in atrial tissue, often with organised atrial activity distinct from ordinary sinus rhythm."
+  },
+  {
+    "term": "Broad-complex tachycardia",
+    "definition": "A tachycardia with widened ventricular complexes; it describes activation without alone specifying origin."
+  },
+  {
+    "term": "Rate-related aberrancy",
+    "definition": "A conduction change that emerges at particular cycle lengths or rates."
+  },
+  {
+    "term": "Capture in tachycardia",
+    "definition": "Successful supraventricular activation of the ventricles during an otherwise ventricular rhythm."
+  },
+  {
+    "term": "Fusion morphology",
+    "definition": "A QRS appearance created by simultaneous contributions from different ventricular activation wavefronts."
+  },
+  {
+    "term": "Initial activation",
+    "definition": "The earliest phase of ventricular depolarisation represented at QRS onset."
+  },
+  {
+    "term": "Extreme axis",
+    "definition": "A markedly abnormal frontal QRS direction; interpret it together with morphology and lead validity."
+  },
+  {
+    "term": "Differential diagnosis",
+    "definition": "A set of plausible mechanisms considered against the available evidence."
+  },
+  {
+    "term": "Diagnostic confidence",
+    "definition": "The degree of support for an interpretation, distinct from whether a label is technically possible."
+  },
+  {
+    "term": "Pacing artefact",
+    "definition": "A recorded electrical stimulus from a pacemaker, often called a pacing spike."
+  },
+  {
+    "term": "Bipolar pacing",
+    "definition": "Pacing between two nearby electrodes on a lead, often producing a smaller surface artefact than unipolar pacing."
+  },
+  {
+    "term": "Demand pacing",
+    "definition": "Pacing behaviour in which appropriately sensed intrinsic activity can inhibit an otherwise due stimulus."
+  },
+  {
+    "term": "Atrial tracking",
+    "definition": "A device timing response in which sensed atrial events can be followed by ventricular pacing within programmed rules."
+  },
+  {
+    "term": "Capture",
+    "definition": "Successful depolarisation of the intended cardiac chamber by a pacing stimulus."
+  },
+  {
+    "term": "Capture threshold",
+    "definition": "The minimum stimulus output needed to produce reliable depolarisation under specified conditions."
+  },
+  {
+    "term": "Undersensing",
+    "definition": "Failure of a device to detect intrinsic activity that should influence its operation."
+  },
+  {
+    "term": "Oversensing",
+    "definition": "Detection of signals that should not be treated as the intended intrinsic cardiac event, potentially altering pacing behaviour."
+  },
+  {
+    "term": "Delta wave",
+    "definition": "Slurred initial QRS deflection caused by early ventricular myocardial activation during pre-excitation."
+  },
+  {
+    "term": "Accessory pathway",
+    "definition": "An additional electrical connection that can bypass part of the normal atrioventricular conduction route."
+  },
+  {
+    "term": "Orthodromic AVRT",
+    "definition": "AV re-entry with antegrade conduction through the usual AV system and retrograde return through an accessory pathway."
+  },
+  {
+    "term": "Pre-excited AF",
+    "definition": "Atrial fibrillation with antegrade ventricular activation through an accessory pathway."
+  },
+  {
+    "term": "Antegrade conduction",
+    "definition": "Electrical conduction from atria towards ventricles."
+  },
+  {
+    "term": "Pseudo-infarction pattern",
+    "definition": "An ECG appearance resembling infarction that can arise from another activation or structural mechanism."
+  },
+  {
+    "term": "Negative delta wave",
+    "definition": "A downward slurred initial QRS deflection caused by the direction of pre-excited ventricular activation."
+  },
+  {
+    "term": "Ischaemia",
+    "definition": "Insufficient myocardial oxygen supply relative to demand."
+  },
+  {
+    "term": "Myocardial injury",
+    "definition": "Myocardial damage evidenced clinically by troponin above its reference limit; acute injury shows a rise or fall."
+  },
+  {
+    "term": "Contiguous leads",
+    "definition": "Leads viewing neighbouring anatomical regions."
+  },
+  {
+    "term": "Reciprocal change",
+    "definition": "An opposite-direction ST change in leads viewing a region opposite the principal pattern."
+  },
+  {
+    "term": "Posterior leads",
+    "definition": "Additional leads V7–V9 placed to view the posterior left ventricular region."
+  },
+  {
+    "term": "Hyperacute T wave",
+    "definition": "A disproportionately broad, prominent T wave that may accompany early regional ischaemia."
+  },
+  {
+    "term": "Wellens pattern",
+    "definition": "A characteristic anterior T-wave warning pattern requiring clinical interpretation."
+  },
+  {
+    "term": "Q wave",
+    "definition": "The first negative QRS deflection before any positive R wave.",
+    "aliases": [
+      "Q waves"
+    ]
+  },
+  {
+    "term": "Discordance",
+    "definition": "ST–T direction opposite the main QRS direction."
+  },
+  {
+    "term": "Right ventricular strain",
+    "definition": "An ECG pattern that can reflect right ventricular pressure or load, with characteristic repolarisation and sometimes conduction changes."
+  },
+  {
+    "term": "S1Q3T3",
+    "definition": "S wave in I, Q wave in III and inverted T wave in III."
+  },
+  {
+    "term": "PR depression",
+    "definition": "PR-segment displacement below the chosen baseline, which can support pericardial inflammation in context."
+  },
+  {
+    "term": "Early repolarisation pattern",
+    "definition": "A J-point/repolarisation pattern that is often a normal variant but requires contextual interpretation."
+  },
+  {
+    "term": "Electrical alternans",
+    "definition": "Beat-to-beat alternation in the amplitude or axis of ECG complexes."
+  },
+  {
+    "term": "Pericardial effusion",
+    "definition": "Fluid accumulation within the pericardial space."
+  },
+  {
+    "term": "Myocarditis",
+    "definition": "Inflammation involving the myocardium."
+  },
+  {
+    "term": "Aetiology",
+    "definition": "The underlying cause of a clinical finding or disease."
+  },
+  {
+    "term": "Sokolow–Lyon voltage",
+    "definition": "SV1 plus the larger RV5 or RV6 amplitude; one ECG voltage criterion used for LVH assessment."
+  },
+  {
+    "term": "LVH",
+    "definition": "Left ventricular hypertrophy; anatomical enlargement of myocardial mass, imperfectly predicted by ECG criteria."
+  },
+  {
+    "term": "Ventricular dominance",
+    "definition": "The relative contribution of ventricular electrical forces to the surface QRS."
+  },
+  {
+    "term": "RVH",
+    "definition": "Right ventricular hypertrophy, which cannot be measured directly from an ECG."
+  },
+  {
+    "term": "Terminal P component",
+    "definition": "The final portion of the P wave, particularly assessed in V1."
+  },
+  {
+    "term": "Bifid P wave",
+    "definition": "A P wave with two distinct peaks."
+  },
+  {
+    "term": "Infiltration",
+    "definition": "Deposition or accumulation of material within myocardial tissue."
+  },
+  {
+    "term": "rSr′ pattern",
+    "definition": "A small initial R, intervening S and terminal positive deflection in a right precordial lead."
+  },
+  {
+    "term": "Systemic association",
+    "definition": "A relationship between ECG changes and a disease outside the primary electrical system."
+  },
+  {
+    "term": "Dextrocardia",
+    "definition": "Right-sided cardiac orientation, assessed using anatomical and clinical evidence as well as ECG clues."
+  },
+  {
+    "term": "Lead reversal",
+    "definition": "Electrode interchange that changes recorded lead relationships."
+  },
+  {
+    "term": "Drug effect",
+    "definition": "A physiological or electrical change associated with medication exposure."
+  },
+  {
+    "term": "Bidirectional VT",
+    "definition": "Ventricular tachycardia with alternating QRS axis/morphology, associated with several causes."
+  },
+  {
+    "term": "Hyperkalaemia",
+    "definition": "An increased extracellular potassium concentration, established biochemically."
+  },
+  {
+    "term": "Sine-wave appearance",
+    "definition": "A severe broad merging QRS–T morphology that is not a numerical potassium measurement."
+  },
+  {
+    "term": "U wave",
+    "definition": "A deflection after the T wave; prominence has several possible associations.",
+    "aliases": [
+      "U waves"
+    ]
+  },
+  {
+    "term": "QU interval",
+    "definition": "An interval extending to the end of a U wave rather than the T wave."
+  },
+  {
+    "term": "Osborn wave",
+    "definition": "A J-wave deflection near the QRS–ST junction, classically associated with hypothermia but not specific."
+  },
+  {
+    "term": "Endocrine context",
+    "definition": "Hormonal conditions that can modify rate, conduction or repolarisation."
+  },
+  {
+    "term": "Physiological variant",
+    "definition": "A pattern that can occur without disease in a defined clinical context."
+  },
+  {
+    "term": "Training-related adaptation",
+    "definition": "A physiological electrical or structural change associated with athletic conditioning."
+  },
+  {
+    "term": "HCM",
+    "definition": "Hypertrophic cardiomyopathy, a myocardial disease established using clinical and structural criteria."
+  },
+  {
+    "term": "Phenotype",
+    "definition": "The observable expression of a condition, such as an ECG or imaging pattern."
+  },
+  {
+    "term": "ACM",
+    "definition": "Arrhythmogenic cardiomyopathy, potentially involving the right, left or both ventricles."
+  },
+  {
+    "term": "Epsilon wave",
+    "definition": "A small terminal depolarisation signal after the principal QRS, whose identification requires care."
+  },
+  {
+    "term": "Brugada pattern",
+    "definition": "A characteristic right-precordial ST morphology requiring clinical interpretation."
+  },
+  {
+    "term": "Phenocopy",
+    "definition": "A similar-appearing pattern produced by an alternative cause rather than the presumed inherited syndrome."
+  },
+  {
+    "term": "Tangent method",
+    "definition": "A method for estimating T-wave end using a tangent to its terminal downslope."
+  },
+  {
+    "term": "Congenital long-QT syndrome",
+    "definition": "An inherited repolarisation disorder assessed using clinical, ECG and sometimes genetic evidence."
+  },
+  {
+    "term": "Acquired QT prolongation",
+    "definition": "QT lengthening associated with non-inherited contributors such as drugs or electrolyte disturbance."
+  },
+  {
+    "term": "Short-QT phenotype",
+    "definition": "A shortened QT/QTc observation requiring measurement and clinical assessment."
+  },
+  {
+    "term": "ECG",
+    "definition": "Electrocardiogram: a recording of cardiac electrical potential differences measured at the body surface.",
+    "aliases": [
+      "electrocardiogram",
+      "electrocardiograms",
+      "ECGs"
+    ]
+  },
+  {
+    "term": "QRS complex",
+    "definition": "The waveform representing ventricular depolarisation; its onset and end define QRS duration.",
+    "aliases": [
+      "QRS complexes"
+    ]
+  },
+  {
+    "term": "QRS",
+    "definition": "The ventricular depolarisation complex, comprising any Q, R and S deflections that are present."
+  },
+  {
+    "term": "P wave",
+    "definition": "The surface ECG waveform representing atrial depolarisation.",
+    "aliases": [
+      "P waves"
+    ]
+  },
+  {
+    "term": "T wave",
+    "definition": "The surface ECG waveform representing ventricular repolarisation.",
+    "aliases": [
+      "T waves"
+    ]
+  },
+  {
+    "term": "ST segment",
+    "definition": "The portion from the end of QRS, at the J point, to the beginning of the T wave."
+  },
+  {
+    "term": "PR segment",
+    "definition": "The portion from the end of the P wave to the beginning of QRS; distinct from the entire PR interval."
+  },
+  {
+    "term": "AV node",
+    "definition": "Atrioventricular node: part of the conduction system that normally delays activation between atria and ventricles."
+  },
+  {
+    "term": "Sinus node",
+    "definition": "The sinoatrial pacemaker region that normally initiates atrial electrical activation."
+  },
+  {
+    "term": "Atria",
+    "definition": "The two upper cardiac chambers; atrial electrical activation normally precedes ventricular activation.",
+    "aliases": [
+      "atrium"
+    ]
+  },
+  {
+    "term": "Ventricles",
+    "definition": "The two lower cardiac chambers; their depolarisation produces the QRS complex.",
+    "aliases": [
+      "ventricle"
+    ]
+  },
+  {
+    "term": "Myocardium",
+    "definition": "The muscular tissue of the heart."
+  },
+  {
+    "term": "AF",
+    "definition": "Atrial fibrillation: disorganised atrial electrical activity without consistent discrete P waves; the ventricular response is often irregular."
+  },
+  {
+    "term": "SVT",
+    "definition": "Supraventricular tachycardia: a tachycardia arising from or involving structures above the ventricular myocardium; mechanisms differ."
+  },
+  {
+    "term": "VT",
+    "definition": "Ventricular tachycardia: a rapid rhythm originating in the ventricles; surface ECG clues support interpretation but must be contextualised."
+  },
+  {
+    "term": "VF",
+    "definition": "Ventricular fibrillation: chaotic ventricular electrical activity without organised QRS complexes."
+  },
+  {
+    "term": "RBBB",
+    "definition": "Right bundle branch block: delayed right ventricular activation producing a characteristic QRS pattern."
+  },
+  {
+    "term": "LBBB",
+    "definition": "Left bundle branch block: delayed left ventricular activation producing a characteristic QRS pattern."
+  },
+  {
+    "term": "BBB",
+    "definition": "Bundle branch block: impaired conduction through a major branch of the His–Purkinje system."
+  },
+  {
+    "term": "WPW",
+    "definition": "Wolff–Parkinson–White: a ventricular pre-excitation pattern involving an accessory pathway; the ECG pattern alone is distinct from symptomatic WPW syndrome."
+  },
+  {
+    "term": "AV block",
+    "definition": "Atrioventricular block: delayed or interrupted conduction of atrial impulses towards the ventricles."
+  },
+  {
+    "term": "QT",
+    "definition": "The interval from the onset of QRS to the end of the T wave, encompassing ventricular depolarisation and repolarisation."
+  },
+  {
+    "term": "RR interval",
+    "definition": "The time between consecutive R waves; in a regular rhythm, rate in beats/min equals 60 divided by RR in seconds."
+  },
+  {
+    "term": "Fridericia formula",
+    "definition": "A heart-rate correction estimate: QTc = QT divided by the cube root of RR, with QT and RR in seconds."
+  },
+  {
+    "term": "Bpm",
+    "definition": "Beats per minute, a unit of heart rate."
+  },
+  {
+    "term": "mV",
+    "definition": "Millivolt: one thousandth of a volt, used to express ECG signal amplitude."
+  },
+  {
+    "term": "ms",
+    "definition": "Millisecond: one thousandth of a second, used to express ECG timing."
+  },
+  {
+    "term": "Ischaemic",
+    "definition": "Relating to insufficient blood supply for tissue metabolic needs; an ECG pattern alone does not establish its cause."
+  },
+  {
+    "term": "Myocardial infarction",
+    "definition": "Acute myocardial injury accompanied by evidence of acute myocardial ischaemia; ECG, biomarkers and clinical findings are interpreted together."
+  },
+  {
+    "term": "Troponin",
+    "definition": "A cardiac injury biomarker; an elevated result alone does not establish coronary infarction."
+  },
+  {
+    "term": "Pericarditis",
+    "definition": "Inflammation of the pericardium; ECG changes can support assessment but are not sufficient alone."
+  },
+  {
+    "term": "Pulmonary embolism",
+    "definition": "Obstruction of the pulmonary arterial circulation, commonly by thrombus; ECG findings are often nonspecific."
+  },
+  {
+    "term": "Hypokalaemia",
+    "definition": "A low blood potassium concentration, which may alter repolarisation and promote arrhythmias."
+  },
+  {
+    "term": "Bradycardia",
+    "definition": "A slow heart rate; its significance depends on rhythm mechanism and clinical context."
+  },
+  {
+    "term": "Tachycardia",
+    "definition": "A fast heart rate; rate alone does not establish the rhythm mechanism."
+  },
+  {
+    "term": "Artefact",
+    "definition": "A recorded signal distortion that does not represent the cardiac electrical event being interpreted."
+  },
+  {
+    "term": "Pre-excitation",
+    "definition": "Ventricular activation occurring early through a pathway that bypasses the usual AV nodal delay."
+  },
+  {
+    "term": "Arrhythmia",
+    "definition": "An abnormality of cardiac rhythm, rate, impulse formation or conduction.",
+    "aliases": [
+      "arrhythmias"
+    ]
+  },
+  {
+    "term": "Conduction",
+    "definition": "Propagation of an electrical impulse through cardiac tissue."
+  },
+  {
+    "term": "Aberrancy",
+    "definition": "Altered ventricular activation of a supraventricular impulse, often through functional or fixed bundle branch conduction delay."
+  },
+  {
+    "term": "ST elevation",
+    "definition": "An upward displacement of the ST segment relative to the chosen baseline; interpretation depends on leads, magnitude, morphology and clinical context."
+  },
+  {
+    "term": "ST depression",
+    "definition": "A downward displacement of the ST segment relative to baseline; it has several possible causes."
+  },
+  {
+    "term": "PR",
+    "definition": "The interval from the start of P to the start of QRS when used as PR interval; PR segment refers only to the portion after P."
+  },
+  {
+    "term": "Axis",
+    "definition": "The mean direction of an electrical vector; the frontal QRS axis describes the net direction of ventricular depolarisation in the frontal plane. In a plotted strip, the time axis instead shows elapsed time; this is distinct from the electrical QRS axis."
+  },
+  {
+    "term": "Electrocardiography",
+    "definition": "Recording and interpreting cardiac electrical potential differences at the body surface; ECG is the resulting electrocardiogram."
+  },
+  {
+    "term": "Sinoatrial node",
+    "definition": "The usual cardiac pacemaker region in the right atrium; its impulses normally initiate atrial depolarisation."
+  },
+  {
+    "term": "Atrioventricular node",
+    "definition": "The AV node, which normally delays conduction between atrial activation and the ventricular conduction system."
+  },
+  {
+    "term": "Bundle of His",
+    "definition": "The conducting connection from the AV nodal region to the right and left bundle branches."
+  },
+  {
+    "term": "Purkinje fibres",
+    "definition": "Specialised conducting tissue that distributes activation rapidly through ventricular myocardium."
+  },
+  {
+    "term": "Action potential",
+    "definition": "A time-dependent change in a cell’s membrane voltage produced by coordinated ion movement through membrane channels.",
+    "aliases": [
+      "action potentials"
+    ]
+  },
+  {
+    "term": "Resting membrane potential",
+    "definition": "The voltage difference across a cell membrane between activation events; altered electrolyte gradients can affect excitability."
+  },
+  {
+    "term": "Refractory period",
+    "definition": "A period following activation during which tissue cannot be re-excited normally or responds differently to another impulse.",
+    "aliases": [
+      "refractoriness"
+    ]
+  },
+  {
+    "term": "Automaticity",
+    "definition": "The ability of specialised cardiac cells to initiate electrical impulses spontaneously."
+  },
+  {
+    "term": "Re-entry",
+    "definition": "A rhythm mechanism in which activation repeatedly circulates through a pathway that can re-excite recovered tissue."
+  },
+  {
+    "term": "Triggered activity",
+    "definition": "Electrical activity arising from afterdepolarisations associated with a preceding action potential."
+  },
+  {
+    "term": "Afterdepolarisation",
+    "definition": "An additional membrane-voltage oscillation during or after repolarisation that can, in some circumstances, initiate another impulse."
+  },
+  {
+    "term": "Conduction velocity",
+    "definition": "The speed at which an activation wave propagates through tissue; different cardiac tissues conduct at different speeds."
+  },
+  {
+    "term": "Atrial depolarisation",
+    "definition": "Electrical activation of atrial myocardium, normally represented by the P wave."
+  },
+  {
+    "term": "Ventricular depolarisation",
+    "definition": "Electrical activation of ventricular myocardium, represented by the QRS complex."
+  },
+  {
+    "term": "Ventricular repolarisation",
+    "definition": "Recovery of ventricular electrical state after depolarisation; the T wave is its principal surface ECG representation."
+  },
+  {
+    "term": "Atrial repolarisation",
+    "definition": "Electrical recovery of the atria, usually obscured by ventricular electrical activity in the surface ECG."
+  },
+  {
+    "term": "Isoelectric baseline",
+    "definition": "The reference level used to describe positive and negative ECG deflections; baseline choice matters when measuring segment displacement."
+  },
+  {
+    "term": "Deflection",
+    "definition": "A portion of the ECG waveform that moves above or below the selected baseline."
+  },
+  {
+    "term": "Amplitude",
+    "definition": "The vertical size of a waveform, expressed as voltage or grid height at a stated gain."
+  },
+  {
+    "term": "Morphology",
+    "definition": "The shape and configuration of a waveform; distinct from its duration, timing or rate.",
+    "aliases": [
+      "waveform morphology"
+    ]
+  },
+  {
+    "term": "Polarity",
+    "definition": "Whether a waveform is predominantly positive, negative or biphasic in a particular lead."
+  },
+  {
+    "term": "Biphasic waveform",
+    "definition": "A waveform with both positive and negative components."
+  },
+  {
+    "term": "Bipolar lead",
+    "definition": "A lead that records the potential difference between two electrode locations."
+  },
+  {
+    "term": "Unipolar lead",
+    "definition": "A lead that compares an exploring electrode with a constructed reference rather than a single opposite electrode."
+  },
+  {
+    "term": "Augmented limb leads",
+    "definition": "The aVR, aVL and aVF limb leads, whose reference construction augments the recorded signal."
+  },
+  {
+    "term": "aVR",
+    "definition": "Augmented right-arm limb lead, oriented approximately −150 degrees in the frontal hexaxial reference system."
+  },
+  {
+    "term": "aVL",
+    "definition": "Augmented left-arm limb lead, oriented approximately −30 degrees in the frontal hexaxial reference system."
+  },
+  {
+    "term": "aVF",
+    "definition": "Augmented foot limb lead, oriented approximately +90 degrees in the frontal hexaxial reference system."
+  },
+  {
+    "term": "Horizontal plane",
+    "definition": "The transverse electrical view principally represented by the precordial chest leads."
+  },
+  {
+    "term": "V1",
+    "definition": "The first precordial lead; its electrode is normally placed in the fourth intercostal space at the right sternal border."
+  },
+  {
+    "term": "V2",
+    "definition": "The second precordial lead; its electrode is normally placed in the fourth intercostal space at the left sternal border."
+  },
+  {
+    "term": "V3",
+    "definition": "The third precordial lead; its electrode is placed midway between correctly located V2 and V4 electrodes."
+  },
+  {
+    "term": "V4",
+    "definition": "The fourth precordial lead; its electrode is normally placed in the fifth intercostal space at the left midclavicular line."
+  },
+  {
+    "term": "V5",
+    "definition": "The fifth precordial lead; its electrode is placed at the anterior axillary line, horizontally level with V4."
+  },
+  {
+    "term": "V6",
+    "definition": "The sixth precordial lead; its electrode is placed at the midaxillary line, horizontally level with V4 and V5."
+  },
+  {
+    "term": "Sternal border",
+    "definition": "The anatomical edge of the sternum, used as a reference when positioning chest electrodes."
+  },
+  {
+    "term": "Midclavicular line",
+    "definition": "A vertical anatomical line through the midpoint of the clavicle, used when locating the V4 electrode."
+  },
+  {
+    "term": "Anterior axillary line",
+    "definition": "A vertical anatomical line at the anterior axillary fold, used for V5 placement."
+  },
+  {
+    "term": "Midaxillary line",
+    "definition": "A vertical line through the middle of the axilla, used for V6 placement."
+  },
+  {
+    "term": "Baseline wander",
+    "definition": "Slow movement of the ECG baseline, often from respiration, movement or electrode contact changes."
+  },
+  {
+    "term": "Muscle artefact",
+    "definition": "Electrical interference from skeletal muscle activity that can obscure cardiac waveforms."
+  },
+  {
+    "term": "Mains interference",
+    "definition": "Electrical noise related to the alternating-current power supply; it can resemble rapid repetitive activity."
+  },
+  {
+    "term": "P–P interval",
+    "definition": "The time between successive P waves, used to assess atrial rate and timing.",
+    "aliases": [
+      "PP interval",
+      "P-P interval"
+    ]
+  },
+  {
+    "term": "R wave",
+    "definition": "The first positive deflection in a QRS complex."
+  },
+  {
+    "term": "S wave",
+    "definition": "A negative deflection following an R wave in the QRS complex."
+  },
+  {
+    "term": "R prime",
+    "definition": "A second positive QRS deflection after an intervening negative deflection, often written R′."
+  },
+  {
+    "term": "Transition zone",
+    "definition": "The precordial region where the R and S amplitudes are approximately equal; position varies with anatomy, activation and electrode placement."
+  },
+  {
+    "term": "Net QRS deflection",
+    "definition": "An estimate of the algebraic balance of positive and negative QRS deflections in a lead, useful for axis reasoning."
+  },
+  {
+    "term": "Left anterior fascicular block",
+    "definition": "Delayed conduction through the left anterior fascicle, associated with a characteristic frontal-plane activation pattern.",
+    "aliases": [
+      "LAFB"
+    ]
+  },
+  {
+    "term": "Left posterior fascicular block",
+    "definition": "Delayed conduction through the left posterior fascicle; rightward axis alone is insufficient to establish it.",
+    "aliases": [
+      "LPFB"
+    ]
+  },
+  {
+    "term": "Bifascicular block",
+    "definition": "Conduction impairment involving two major fascicular pathways; interpretation requires the full ECG pattern."
+  },
+  {
+    "term": "Mobitz I",
+    "definition": "Second-degree AV block with a Wenckebach conduction pattern, classically progressive PR prolongation before a non-conducted P wave."
+  },
+  {
+    "term": "Mobitz II",
+    "definition": "Second-degree AV block with intermittent failed conduction without the classic Wenckebach PR sequence; a fixed 2:1 ratio alone does not establish this type."
+  },
+  {
+    "term": "Non-conducted P wave",
+    "definition": "A visible atrial depolarisation without a corresponding conducted ventricular complex; its cause requires timing and rhythm analysis."
+  },
+  {
+    "term": "Junctional rhythm",
+    "definition": "A rhythm arising from the AV junctional region; P waves may be absent, hidden or retrograde."
+  },
+  {
+    "term": "Premature ventricular complex",
+    "definition": "An early ventricular-origin beat, often with a broad abnormal QRS and altered repolarisation; timing and full morphology matter.",
+    "aliases": [
+      "premature ventricular complexes"
+    ]
+  },
+  {
+    "term": "Compensatory pause",
+    "definition": "A longer interval after a premature beat; a full compensatory pause spans approximately two baseline cycles, but not all premature beats produce one."
+  },
+  {
+    "term": "Bigeminy",
+    "definition": "A repeating pattern in which one type of beat alternates with another, such as a sinus beat followed by a premature beat."
+  },
+  {
+    "term": "Trigeminy",
+    "definition": "A repeating pattern in which a particular premature event occurs every third beat."
+  },
+  {
+    "term": "R-on-T",
+    "definition": "A ventricular premature event occurring during the preceding T wave; the significance depends on the substrate and context."
+  },
+  {
+    "term": "Ventricular escape",
+    "definition": "A late protective ventricular impulse when higher pacemakers or conduction do not provide the expected activation."
+  },
+  {
+    "term": "Idioventricular rhythm",
+    "definition": "A ventricular-origin rhythm, commonly slower than ventricular tachycardia; rate labels alone do not establish mechanism."
+  },
+  {
+    "term": "Accelerated idioventricular rhythm",
+    "definition": "A ventricular-origin rhythm faster than a typical slow ventricular escape, with rate and mechanism assessed in context."
+  },
+  {
+    "term": "AV conduction",
+    "definition": "Propagation of atrial activation towards the ventricles through the atrioventricular conduction system."
+  },
+  {
+    "term": "AV",
+    "definition": "Atrioventricular: relating to the atria, ventricles or their electrical connection."
+  },
+  {
+    "term": "PVC",
+    "definition": "Premature ventricular complex, an early ventricular-origin beat."
+  },
+  {
+    "term": "PAC",
+    "definition": "Premature atrial complex, an early atrial-origin depolarisation that may conduct normally, aberrantly or not at all."
+  },
+  {
+    "term": "PE",
+    "definition": "Pulmonary embolism; its ECG findings are often nonspecific and cannot confirm or exclude it alone."
+  },
+  {
+    "term": "CAD",
+    "definition": "Coronary artery disease; ECG abnormalities may support assessment but do not directly measure coronary anatomy."
+  },
+  {
+    "term": "ACS",
+    "definition": "Acute coronary syndrome, a clinical framework requiring symptoms, ECG and other relevant evidence."
+  },
+  {
+    "term": "STEMI",
+    "definition": "ST-elevation myocardial infarction, a clinical classification involving qualifying ECG findings in the appropriate setting; ST elevation alone has other causes."
+  },
+  {
+    "term": "NSTEMI",
+    "definition": "Non-ST-elevation myocardial infarction, requiring evidence of acute injury and ischaemia without the STEMI ECG classification."
+  },
+  {
+    "term": "SCD",
+    "definition": "Sudden cardiac death; an outcome with several possible underlying mechanisms and substrates."
+  },
+  {
+    "term": "CPVT",
+    "definition": "Catecholaminergic polymorphic ventricular tachycardia, an inherited arrhythmia disorder whose resting ECG may be unremarkable."
+  },
+  {
+    "term": "LQTS",
+    "definition": "Long-QT syndrome, an inherited or acquired context of abnormal repolarisation; QT measurement and clinical assessment are needed."
+  },
+  {
+    "term": "J wave",
+    "definition": "A deflection or notch near the junction between QRS and ST; appearance and clinical significance depend on context."
+  },
+  {
+    "term": "P pulmonale",
+    "definition": "A traditional description of tall peaked P-wave morphology associated with right atrial abnormality; it does not independently prove chamber enlargement."
+  },
+  {
+    "term": "P mitrale",
+    "definition": "A traditional description of a broad or notched P wave associated with left atrial abnormality; morphology is not a direct chamber-size measurement."
+  },
+  {
+    "term": "Atrial enlargement",
+    "definition": "Anatomical enlargement of an atrial chamber; ECG criteria suggest atrial abnormality but do not directly measure its size."
+  },
+  {
+    "term": "Ventricular hypertrophy",
+    "definition": "Increased ventricular muscle mass; voltage and repolarisation patterns can support assessment but have imperfect sensitivity and specificity."
+  },
+  {
+    "term": "Pericardium",
+    "definition": "The sac surrounding the heart; its inflammation or fluid accumulation can influence the ECG in different ways."
+  },
+  {
+    "term": "Channelopathy",
+    "definition": "Disease involving ion-channel function, potentially altering cardiac electrical behaviour without an obvious structural abnormality."
+  },
+  {
+    "term": "Cardiomyopathy",
+    "definition": "A disorder of heart muscle structure or function; ECG patterns may prompt further investigation but do not define all features alone."
+  },
+  {
+    "term": "Penetrance",
+    "definition": "The proportion of people with a genetic variant who show a related observable phenotype; age and other factors can influence it."
+  },
+  {
+    "term": "Expressivity",
+    "definition": "The extent or form of an observable phenotype among people with the same underlying genetic association."
+  },
+  {
+    "term": "Sensitivity",
+    "definition": "The proportion of people with a target condition who have a positive test result; a low sensitivity limits exclusion by a negative result."
+  },
+  {
+    "term": "Specificity",
+    "definition": "The proportion without a target condition who have a negative test result; imperfect specificity permits false-positive results."
+  },
+  {
+    "term": "Pre-test probability",
+    "definition": "The estimated likelihood of a condition before considering the test result; it changes how a finding is interpreted."
+  },
+  {
+    "term": "Positive predictive value",
+    "definition": "The proportion of positive test results that correspond to the target condition in the population being assessed."
+  },
+  {
+    "term": "Confounding",
+    "definition": "Distortion of an apparent relationship by another factor associated with the variables being studied."
+  },
+  {
+    "term": "Observer variability",
+    "definition": "Differences in measurements or interpretations between observers or repeated assessments."
+  },
+  {
+    "term": "Confidence interval",
+    "definition": "A statistical interval indicating uncertainty around an estimate under a specified method; it is not a range containing a fixed proportion of individual values."
+  },
+  {
+    "term": "Convenience sample",
+    "definition": "A sample selected because participants are readily available, which can limit representativeness."
+  },
+  {
+    "term": "Observational study",
+    "definition": "A study that observes exposures or outcomes without assigning the exposure experimentally; causal interpretation requires care."
+  }
+]

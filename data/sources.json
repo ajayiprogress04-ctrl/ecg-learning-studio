@@ -1,0 +1,1167 @@
+{
+  "inventory": [
+    {
+      "id": "source-01",
+      "filename": "63D_SCST_Diploma_syllabus_2018_11.pdf",
+      "bytes": 186894,
+      "sha256": "2b0cabb531aa093daccd24f0367695e84d21d37862039870990eee2298581a17",
+      "type": "pdf",
+      "pages": 3,
+      "encrypted": false,
+      "text_chars": 4032,
+      "low_text_pages": []
+    },
+    {
+      "id": "source-02",
+      "filename": "D1-1 ECG lead theory  DipECG amended Mar 2026.pdf",
+      "bytes": 1777262,
+      "sha256": "cc8f477212e241681162cdb0072fbc67e6e75ff473f7568fa6f198fe8253031e",
+      "type": "pdf",
+      "pages": 24,
+      "encrypted": false,
+      "text_chars": 3212,
+      "low_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        11,
+        24
+      ]
+    },
+    {
+      "id": "source-03",
+      "filename": "D1-2 Normal ECG  DipECG April 2026.pdf",
+      "bytes": 25602997,
+      "sha256": "3240130b9c602f595b55ada042c4861e901d836000f7ff7c74e11f86ddde86b1",
+      "type": "pdf",
+      "pages": 93,
+      "encrypted": false,
+      "text_chars": 11031,
+      "low_text_pages": [
+        1,
+        2,
+        5,
+        6,
+        16,
+        18,
+        23,
+        24,
+        30,
+        32,
+        39,
+        41,
+        43,
+        45,
+        51,
+        52,
+        60,
+        66,
+        67,
+        72,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83,
+        85,
+        86,
+        87,
+        89,
+        91,
+        93
+      ]
+    },
+    {
+      "id": "source-04",
+      "filename": "D1-3.  QRS axis DipECG reviewed mar 2026.pdf",
+      "bytes": 8712307,
+      "sha256": "7a0bec583cc54514b67678818c175f6f7c9bade5b0bc3bde61d8ad3976f57522",
+      "type": "pdf",
+      "pages": 60,
+      "encrypted": false,
+      "text_chars": 6541,
+      "low_text_pages": [
+        1,
+        6,
+        10,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        30,
+        41,
+        48,
+        50,
+        52,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "id": "source-05",
+      "filename": "D1-4. supraventricular arrhythmias DipECG amended Mar 2026.pdf",
+      "bytes": 17388514,
+      "sha256": "49aee32bb901047c7fe97b03f9f1d6b4266f4255b5506a3962b06031c12f13d3",
+      "type": "pdf",
+      "pages": 73,
+      "encrypted": false,
+      "text_chars": 9229,
+      "low_text_pages": [
+        1,
+        2,
+        9,
+        11,
+        25,
+        26,
+        27,
+        32,
+        33,
+        34,
+        35,
+        38,
+        43,
+        45,
+        52,
+        53,
+        54,
+        55,
+        57,
+        58,
+        61,
+        62,
+        63,
+        65,
+        66,
+        69,
+        72,
+        73
+      ]
+    },
+    {
+      "id": "source-06",
+      "filename": "D2-1 Bradycardias & conduction disorders DipECG Amended Mar 2026.pdf",
+      "bytes": 20897305,
+      "sha256": "7b376eb068d75de65766afd0754e674b32db32e23532acf139dfa5ea8cd10014",
+      "type": "pdf",
+      "pages": 97,
+      "encrypted": false,
+      "text_chars": 13845,
+      "low_text_pages": [
+        1,
+        2,
+        13,
+        14,
+        33,
+        35,
+        43,
+        47,
+        49,
+        64,
+        65,
+        67,
+        70,
+        82,
+        85,
+        90,
+        91,
+        92,
+        95,
+        97
+      ]
+    },
+    {
+      "id": "source-07",
+      "filename": "D2-2 ventricular arrhythmias DipECG amended mar2026.pdf",
+      "bytes": 10652531,
+      "sha256": "6edb04c327b0c94b1b8e2dcdbbfe85ca08760bd79a93340c40890bd43e9a55cc",
+      "type": "pdf",
+      "pages": 35,
+      "encrypted": false,
+      "text_chars": 3985,
+      "low_text_pages": [
+        1,
+        4,
+        6,
+        7,
+        9,
+        10,
+        14,
+        15,
+        21,
+        24,
+        26,
+        29,
+        30,
+        31,
+        34,
+        35
+      ]
+    },
+    {
+      "id": "source-08",
+      "filename": "D2-3 SV arrhythmias with conduction disturbances DipECG amended Mar2026.pdf",
+      "bytes": 9880343,
+      "sha256": "da1ff67536d65ace19d2d13f6e5af6820f3fdb9e0f73866f662befac8a375625",
+      "type": "pdf",
+      "pages": 37,
+      "encrypted": false,
+      "text_chars": 3504,
+      "low_text_pages": [
+        1,
+        6,
+        8,
+        10,
+        11,
+        14,
+        18,
+        22,
+        23,
+        29,
+        30,
+        32,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "id": "source-09",
+      "filename": "D2-4 VT vs aberrant SVT DipECG reviewed Mar2026.pdf",
+      "bytes": 2470096,
+      "sha256": "e9b83f60320d4d84e8fcd57dc2775fa2f4b802bf2c57ce65ce4132177d9997da",
+      "type": "pdf",
+      "pages": 15,
+      "encrypted": false,
+      "text_chars": 2148,
+      "low_text_pages": [
+        1,
+        2,
+        15
+      ]
+    },
+    {
+      "id": "source-10",
+      "filename": "D2-5 Basic pacing ECGs DipECG amended Mar2026.pdf",
+      "bytes": 7803015,
+      "sha256": "8ea440e3f3ad424a4884639ffd42dc13979c9c975401a3de4d5b3e742e035257",
+      "type": "pdf",
+      "pages": 26,
+      "encrypted": false,
+      "text_chars": 2330,
+      "low_text_pages": [
+        1,
+        2,
+        15,
+        16,
+        21,
+        24,
+        26
+      ]
+    },
+    {
+      "id": "source-11",
+      "filename": "D2-6 pre-excitation & WPW Dip ECG 2025 new.pdf",
+      "bytes": 9292468,
+      "sha256": "f5c640023848f5969d2bbee4353b5ec739fd269baf6d33eb5a020fc9cb82e25a",
+      "type": "pdf",
+      "pages": 35,
+      "encrypted": false,
+      "text_chars": 3527,
+      "low_text_pages": [
+        1,
+        3,
+        5,
+        12,
+        15,
+        26,
+        27,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "id": "source-12",
+      "filename": "D3-1 CAD Dip updated Feb 2026.pdf",
+      "bytes": 20600383,
+      "sha256": "66e03ecb6a0436c93caa1528709bd7c10c073436b78615a2c41961f388d3abe8",
+      "type": "pdf",
+      "pages": 110,
+      "encrypted": false,
+      "text_chars": 13794,
+      "low_text_pages": [
+        1,
+        2,
+        7,
+        13,
+        16,
+        18,
+        20,
+        21,
+        23,
+        24,
+        29,
+        32,
+        37,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        64,
+        65,
+        66,
+        74,
+        75,
+        79,
+        100,
+        107,
+        108,
+        109
+      ]
+    },
+    {
+      "id": "source-13",
+      "filename": "D3-2 PE_&_pericarditis DipECG revised May2026.pdf",
+      "bytes": 7336452,
+      "sha256": "a7e45d72c6fd38abc17923ae95352703bb02ec4a56bbb41ad3b19b59586e6009",
+      "type": "pdf",
+      "pages": 38,
+      "encrypted": false,
+      "text_chars": 5476,
+      "low_text_pages": [
+        1,
+        3,
+        12,
+        13,
+        16,
+        31,
+        38
+      ]
+    },
+    {
+      "id": "source-14",
+      "filename": "D3-3 morphological abnormalities DipECG reviewed Mar2026.pdf",
+      "bytes": 10657291,
+      "sha256": "52af137e63a08a06642f5fa4b15e87019d7a3d656e0edfba1324e5c1b9e54cf3",
+      "type": "pdf",
+      "pages": 63,
+      "encrypted": false,
+      "text_chars": 9048,
+      "low_text_pages": [
+        1,
+        2,
+        6,
+        10,
+        13,
+        16,
+        25,
+        29,
+        30,
+        33,
+        35,
+        36,
+        41,
+        52,
+        63
+      ]
+    },
+    {
+      "id": "source-15",
+      "filename": "D3-4 metabolic, drugs & electrolytes dipECG amended Mar2026.pdf",
+      "bytes": 19146683,
+      "sha256": "0b0f3695dd3837b007ce577ba79cf2858e751f170f52da921f9e15190d30cc87",
+      "type": "pdf",
+      "pages": 58,
+      "encrypted": false,
+      "text_chars": 6014,
+      "low_text_pages": [
+        1,
+        4,
+        8,
+        12,
+        21,
+        22,
+        25,
+        28,
+        38,
+        39,
+        40,
+        42,
+        43,
+        44,
+        46,
+        48,
+        50,
+        51,
+        52,
+        55,
+        58
+      ]
+    },
+    {
+      "id": "source-16",
+      "filename": "D3-5 SCD  CM & channelopathy DipECG revised July2026.pdf",
+      "bytes": 15124162,
+      "sha256": "10b6f9b7e9379cc577e4b25f4539a45376a2c91ffc5e8fb422e155345776c722",
+      "type": "pdf",
+      "pages": 96,
+      "encrypted": false,
+      "text_chars": 14369,
+      "low_text_pages": [
+        1,
+        4,
+        5,
+        14,
+        18,
+        33,
+        35,
+        36,
+        40,
+        42,
+        52,
+        57,
+        58,
+        59,
+        60,
+        61,
+        65,
+        66,
+        68,
+        69,
+        70,
+        74,
+        82,
+        85,
+        86,
+        91,
+        94,
+        96
+      ]
+    },
+    {
+      "id": "source-17",
+      "filename": "DIGITAL_SCST-Journal-Summer-2026-Issue.pdf",
+      "bytes": 31407212,
+      "sha256": "9d702162678d642661ae7aa55b09c33b56c744f2d8842111c1fbd1d0e3e0c04e",
+      "type": "pdf",
+      "pages": 44,
+      "encrypted": false,
+      "text_chars": 0,
+      "low_text_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "id": "source-18",
+      "filename": "Programme SCST Diploma in ECG Interpretation – Virtual Course 09-2026.docx",
+      "bytes": 564630,
+      "sha256": "aea3dacc83bbfbb0e04b1d30b1cb46fde6c7b452260807106f6a3d7eefafa5fe",
+      "type": "docx",
+      "text_chars": 1178
+    },
+    {
+      "id": "source-19",
+      "filename": "SCST-Pre-course-reading.pdf",
+      "bytes": 4313264,
+      "sha256": "82e9dcea14fd9db51363f742030e483fa37a965ade8105feef21fabc213896eb",
+      "type": "pdf",
+      "pages": 12,
+      "encrypted": false,
+      "text_chars": 19748,
+      "low_text_pages": []
+    },
+    {
+      "id": "source-20",
+      "filename": "scst.org.uk-Welcome to the Diploma Course Portal.pdf",
+      "bytes": 158959,
+      "sha256": "fb01fa33daf1dc58d23c4bcc6bf6811627c160db72e0d20355521320b390800b",
+      "type": "pdf",
+      "pages": 6,
+      "encrypted": false,
+      "text_chars": 7839,
+      "low_text_pages": []
+    }
+  ],
+  "supporting": {
+    "sources": [
+      {
+        "sourceId": "source-01",
+        "filename": "63D_SCST_Diploma_syllabus_2018_11.pdf",
+        "role": "Curriculum scope; historical syllabus, not a current treatment guideline",
+        "pages": 3,
+        "status": "All 3 pages text-reviewed; syllabus coverage map prepared",
+        "textReviewPages": [
+          1,
+          2,
+          3
+        ],
+        "visualReviewPages": [],
+        "summary": "Defines ECG acquisition, measurement, normal variation, arrhythmias, conduction, pacing, ischaemia, structural disease, metabolic changes and inherited risk. Explicitly includes recording artefacts and neurological/neuromuscular associations.",
+        "limitations": [
+          "Dated 2018; current examination and guideline status not independently established.",
+          "A topic appearing in the syllabus is not evidence that the app has covered it fully."
+        ],
+        "topicMappings": [
+          {
+            "topicId": "lead-theory",
+            "pages": [
+              1
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "normal-ecg",
+            "pages": [
+              1
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "axis",
+            "pages": [
+              1
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "supraventricular",
+            "pages": [
+              1
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "bradycardia",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "ventricular",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "sv-conduction",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "wide-complex",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "pacing",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "pre-excitation",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "ischaemia",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "pe-pericarditis",
+            "pages": [
+              2
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "morphology",
+            "pages": [
+              2,
+              3
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "metabolic",
+            "pages": [
+              2,
+              3
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          },
+          {
+            "topicId": "inherited-risk",
+            "pages": [
+              2,
+              3
+            ],
+            "note": "Curriculum scope; compare with lecture-specific coverage."
+          }
+        ]
+      },
+      {
+        "sourceId": "source-19",
+        "filename": "SCST-Pre-course-reading.pdf",
+        "role": "Foundational acquisition and measurement reading",
+        "pages": 12,
+        "status": "All 12 pages text-reviewed and visually inspected at contact-sheet overview scale; wording corrections required",
+        "textReviewPages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "visualReviewPages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "visualReviewLevel": "Contact-sheet overview, not full-scale trace validation",
+        "summary": "Introduces lead versus electrode, limb and precordial systems, viewing planes, basic conduction, PQRSTU nomenclature, paper calibration and interval measurement.",
+        "limitations": [
+          "Page 7 has an atrial repolarisation/depolarisation wording error.",
+          "Page 9 has inconsistent small/large QRS-letter wording.",
+          "Page 11 QTc range is a course heuristic; use contemporary qualified sex/rate/QRS-specific context, and explain Bazett limitations.",
+          "Standard 25 mm/s and 10 mm/mV are examples to check on each recording, not assumptions for every ECG."
+        ],
+        "topicMappings": [
+          {
+            "topicId": "lead-theory",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "note": "Leads, electrodes, planes, chest positions and standard layout."
+          },
+          {
+            "topicId": "normal-ecg",
+            "pages": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ],
+            "note": "Conduction, wave names, calibration, intervals and ST baseline."
+          },
+          {
+            "topicId": "axis",
+            "pages": [
+              3,
+              5
+            ],
+            "note": "Limb lead orientation and hexaxial framework; axis calculation is developed in the lecture."
+          },
+          {
+            "topicId": "metabolic",
+            "pages": [
+              9,
+              11
+            ],
+            "note": "U wave and QT measurement foundations only, not disease-specific diagnostic criteria."
+          }
+        ]
+      },
+      {
+        "sourceId": "source-18",
+        "filename": "Programme SCST Diploma in ECG Interpretation – Virtual Course 09-2026.docx",
+        "role": "Teaching order and course structure",
+        "pages": null,
+        "status": "Whole DOCX extracted text reviewed",
+        "textReviewPages": [],
+        "visualReviewPages": [],
+        "summary": "Three-day teaching sequence matches the numbered lecture filenames: foundations and supraventricular rhythms; conduction and rhythm discrimination with pacing/pre-excitation; ischaemia, morphology, metabolic and inherited risk.",
+        "limitations": [
+          "Programme is not clinical evidence or a source of diagnostic thresholds.",
+          "Use document sections rather than fabricated DOCX page numbers."
+        ],
+        "topicMappings": [
+          {
+            "topicId": "lead-theory",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "normal-ecg",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "axis",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "supraventricular",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "bradycardia",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "ventricular",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "sv-conduction",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "wide-complex",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "pacing",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "pre-excitation",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "ischaemia",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "pe-pericarditis",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "morphology",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "metabolic",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          },
+          {
+            "topicId": "inherited-risk",
+            "pages": [],
+            "note": "Programme names this teaching topic; no fixed DOCX pagination."
+          }
+        ]
+      },
+      {
+        "sourceId": "source-20",
+        "filename": "scst.org.uk-Welcome to the Diploma Course Portal.pdf",
+        "role": "Private course logistics only",
+        "pages": 6,
+        "status": "All 6 pages text-reviewed; excluded from public learning content",
+        "textReviewPages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "visualReviewPages": [],
+        "summary": "Historical delegate access, programme, attendance and assessment administration. Does not provide core clinical learning evidence.",
+        "limitations": [
+          "Contains access credentials and private URLs: do not publish them.",
+          "Page 5 restricts materials to registered delegates; do not redistribute original course PDFs or images publicly.",
+          "Portal and programme disagree about pre-excitation/morphology day placement; use programme plus numbered files.",
+          "Timing and FAQ copy contain inconsistencies; current examination rules were not verified."
+        ],
+        "topicMappings": []
+      },
+      {
+        "sourceId": "source-17",
+        "filename": "DIGITAL_SCST-Journal-Summer-2026-Issue.pdf",
+        "role": "Optional professional reading, research context and quality improvement",
+        "pages": 44,
+        "status": "All 44 pages OCR processed; selected articles text-reviewed; all-page visual overview; not comprehensively clinically validated",
+        "textReviewPages": [
+          1,
+          2,
+          3,
+          4,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          31,
+          32,
+          35,
+          36
+        ],
+        "visualReviewPages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "visualReviewLevel": "All-page thumbnail overview; detailed page inspection 13,16,22,24",
+        "summary": "Summer 2026 professional journal includes single-ventricle care, two ECG acquisition/competency studies, conference reports, service development and careers. The two ECG studies support acquisition checks and continued practical reassessment.",
+        "limitations": [
+          "Image-only PDF: OCR completed for all pages, but recognition/column order is poor on some pages, notably 5 and 34.",
+          "Only listed textReviewPages were read in full; pages 6–12,29–30,33–34,37–44 were skimmed or visually screened.",
+          "Research studies are small, institution-based observational/self-report work; do not imply causal training effectiveness or representative national error rates.",
+          "Article p24 has an experience range versus duration-table discrepancy (narrative 25–60 months; table 19 ± 11 months). Verify with authors before quoting experience statistics.",
+          "No independent verification of journal references or conference treatment claims undertaken in this audit.",
+          "Do not reproduce original journal figures or people/contact lists in the public app."
+        ],
+        "topicMappings": [
+          {
+            "topicId": "lead-theory",
+            "pages": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ],
+            "note": "Electrode placement accuracy and anatomical landmark reassessment."
+          },
+          {
+            "topicId": "normal-ecg",
+            "pages": [
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ],
+            "note": "Training, competence maintenance and recording-quality audit."
+          },
+          {
+            "topicId": "pacing",
+            "pages": [
+              31,
+              35
+            ],
+            "note": "Remote monitoring and device choice: optional conference context, not standalone management guidance."
+          },
+          {
+            "topicId": "supraventricular",
+            "pages": [
+              32
+            ],
+            "note": "AF and HFpEF/wearable detection: optional conference context."
+          },
+          {
+            "topicId": "inherited-risk",
+            "pages": [
+              35,
+              36
+            ],
+            "note": "HCM rhythm risk and shared decision making: optional conference context."
+          },
+          {
+            "topicId": "morphology",
+            "pages": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "note": "Single-ventricle congenital context; skimmed, optional, no diagnostic rule derived."
+          }
+        ]
+      }
+    ],
+    "journalReadings": [
+      {
+        "id": "journal-electrode-placement",
+        "title": "Accuracy of precordial ECG electrode placement by clinically authorised trainees in NHS practice",
+        "sourceId": "source-17",
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "summary": "A small observational study of 36 authorised trainees highlights persistent anatomical-placement errors after competency sign-off. This is context for checking acquisition before interpreting morphology.",
+        "reasonToRead": "Connect lead theory with recording-quality checks and practical reassessment; discuss sampling and measurement limitations.",
+        "topicIds": [
+          "lead-theory",
+          "normal-ecg",
+          "morphology"
+        ],
+        "optional": true
+      },
+      {
+        "id": "journal-competency-maintenance",
+        "title": "ECG training, competency assessment, and perceived development needs: a cross-sectional survey",
+        "sourceId": "source-17",
+        "pages": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ],
+        "summary": "A 40-participant convenience survey describes varied initial assessment, limited reported routine acquisition audit and support for refresher training. Self-reported preferences do not establish that any intervention improves patient outcomes.",
+        "reasonToRead": "Understand why spaced practice, acquisition checklists and feedback complement an initial sign-off.",
+        "topicIds": [
+          "lead-theory",
+          "normal-ecg"
+        ],
+        "optional": true
+      },
+      {
+        "id": "journal-remote-monitoring",
+        "title": "Rhythm management in the era of remote monitoring",
+        "sourceId": "source-17",
+        "pages": [
+          31
+        ],
+        "summary": "Conference report discusses service opportunities, alert workload, patient engagement and uncertainty around optimal monitoring services.",
+        "reasonToRead": "Broaden basic pacing knowledge into follow-up and governance context.",
+        "topicIds": [
+          "pacing"
+        ],
+        "optional": true
+      },
+      {
+        "id": "journal-af-hfpef",
+        "title": "Atrial fibrillation in HFpEF: what the evidence says and what is the role of wearable technologies?",
+        "sourceId": "source-17",
+        "pages": [
+          32
+        ],
+        "summary": "Conference report highlights the overlap of AF with HFpEF and distinguishes wearable detection from less established management applications.",
+        "reasonToRead": "Consider the clinical setting of AF beyond naming the rhythm; verify treatment statements in guidelines.",
+        "topicIds": [
+          "supraventricular"
+        ],
+        "optional": true
+      },
+      {
+        "id": "journal-hcm-rhythm",
+        "title": "Rhythm management strategies in HCM",
+        "sourceId": "source-17",
+        "pages": [
+          35
+        ],
+        "summary": "Conference report frames device decisions around individual risk, potential benefits, complications and patient preferences.",
+        "reasonToRead": "Understand why an ECG pattern alone does not determine an ICD decision.",
+        "topicIds": [
+          "inherited-risk",
+          "pacing"
+        ],
+        "optional": true
+      },
+      {
+        "id": "journal-hcm-care",
+        "title": "The future of patient-centred HCM care from a cardiac science perspective",
+        "sourceId": "source-17",
+        "pages": [
+          36
+        ],
+        "summary": "Conference report describes screening, lifelong surveillance, multidisciplinary governance and evolving scientist-led services.",
+        "reasonToRead": "Place inherited-risk recognition within family assessment and ongoing specialist care.",
+        "topicIds": [
+          "inherited-risk"
+        ],
+        "optional": true
+      }
+    ],
+    "syllabusGaps": [
+      {
+        "item": "Normal variation across age, ethnicity, body habitus and athletic adaptation",
+        "reason": "Explicit syllabus scope; check that lecture-derived app lessons include these qualifications rather than one universal normal pattern."
+      },
+      {
+        "item": "Artefacts, filters, limb and chest lead transposition",
+        "reason": "Explicit syllabus scope; ensure practical recognition and repeat-recording actions are taught alongside diagnosis."
+      },
+      {
+        "item": "Neurological and neuromuscular associations",
+        "reason": "Syllabus names stroke, subarachnoid haemorrhage, muscular/myotonic dystrophy and Friedreich ataxia; check coverage in morphology and inherited-risk lessons."
+      },
+      {
+        "item": "Myocarditis, atrial septal defect and infiltrative disease",
+        "reason": "Explicit syllabus examples; verify inclusion when comparing lecture content. These are coverage checks, not claims that lectures omit them."
+      },
+      {
+        "item": "Current diagnostic thresholds and examination regulations",
+        "reason": "2018 syllabus and course-administration extracts do not establish current clinical guideline or examination policy."
+      }
+    ]
+  }
+}
