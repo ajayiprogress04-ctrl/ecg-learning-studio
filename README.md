@@ -2,7 +2,7 @@
 
 Self-paced ECG learning by Progress Ajayi. Live app: https://ecg-learning-studio.vercel.app/
 
-75 objectives, 75 worked examples plus 75 guided exercises, 150 objective questions, 301 glossary terms and 18 original synthetic practice challenges. All 20 source documents are registered, including 19 PDFs containing 925 pages. Registration is not a claim that every source page or tracing has been converted into a separate lesson.
+75 objectives, 75 worked examples plus 75 guided exercises, 150 objective questions, 393 glossary terms and 18 original synthetic practice challenges. All 20 source documents are registered, including 19 PDFs containing 925 pages. Registration is not a claim that every source page or tracing has been converted into a separate lesson.
 
 Run `npm run dev`, `npm test`, `npm run build`. Deploy the complete source through Vercel to include Node API functions in `api`, with `dist` as static output. A static-only Drop upload does not activate Google authentication.
 
