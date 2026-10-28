@@ -9,3 +9,7 @@ Run `npm run dev`, `npm test`, `npm run build`. Deploy the complete source throu
 See [the access administrator guide](docs/access-administrator.md) for OAuth setup, named-user approval/revocation and production tests still required. Until configured, protected endpoints fail closed. Drive permissions are the authoritative email allowlist.
 
 No source PDFs, delegate credentials, private Drive IDs, OAuth secrets or real user allowlist are included. Never commit populated environment values. [Source coverage](docs/source-coverage.md) records source mapping and limits.
+
+## Voice learning
+
+Browser-native narration, section highlighting, guided objectives, verified local course commands and optional microphone transcription are integrated into the existing lessons. The optional owner-only AI tutor is disabled until separately approved and configured. See [voice architecture, costs, configuration, tests and remaining device checks](docs/voice-learning.md). No paid provider is enabled by default.
