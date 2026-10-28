@@ -1,0 +1,2 @@
+import{configuration,headers,json,fail,session,documentAccess,AccessError}from'../../server/access.js';
+export default async function handler(req,res){headers(res);try{if(req.method!=='GET')throw new AccessError(405,'method_not_allowed','Use a GET request.');let c=configuration(),s=await session(req,res,c),id=req.query?.id;if(typeof id!=='string')throw new AccessError(404,'unknown_document','Select a document from a lesson.');json(res,200,await documentAccess(id,s,c))}catch(e){fail(res,e)}}
