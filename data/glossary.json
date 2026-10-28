@@ -65,7 +65,10 @@
   },
   {
     "term": "Intercostal space",
-    "definition": "An anatomical space between adjacent ribs."
+    "definition": "An anatomical space between adjacent ribs.",
+    "aliases": [
+      "Intercostal spaces"
+    ]
   },
   {
     "term": "QS complex",
@@ -111,7 +114,10 @@
   },
   {
     "term": "PR interval",
-    "definition": "Time from P-wave onset to QRS onset."
+    "definition": "Time from P-wave onset to QRS onset.",
+    "aliases": [
+      "PR intervals"
+    ]
   },
   {
     "term": "QRS duration",
@@ -119,7 +125,10 @@
   },
   {
     "term": "Broad complex",
-    "definition": "A descriptive term for prolonged ventricular activation, interpreted using the relevant task-specific threshold."
+    "definition": "A descriptive term for prolonged ventricular activation, interpreted using the relevant task-specific threshold.",
+    "aliases": [
+      "Broad complexes"
+    ]
   },
   {
     "term": "QT interval",
@@ -154,7 +163,10 @@
   },
   {
     "term": "Normal variant",
-    "definition": "An ECG pattern that may occur without disease in an appropriate context, but still requires careful assessment."
+    "definition": "An ECG pattern that may occur without disease in an appropriate context, but still requires careful assessment.",
+    "aliases": [
+      "Normal variants"
+    ]
   },
   {
     "term": "Concordance",
@@ -222,7 +234,10 @@
   },
   {
     "term": "Premature atrial beat",
-    "definition": "An atrial depolarisation arising earlier than expected outside the sinus node."
+    "definition": "An atrial depolarisation arising earlier than expected outside the sinus node.",
+    "aliases": [
+      "Premature atrial beats"
+    ]
   },
   {
     "term": "Concealed P wave",
@@ -234,7 +249,10 @@
   },
   {
     "term": "Focal atrial tachycardia",
-    "definition": "An organised atrial tachycardia arising from a localised non-sinus origin."
+    "definition": "An organised atrial tachycardia arising from a localised non-sinus origin.",
+    "aliases": [
+      "Focal atrial tachycardias"
+    ]
   },
   {
     "term": "Warm-up phenomenon",
@@ -262,7 +280,10 @@
   },
   {
     "term": "Accelerated junctional rhythm",
-    "definition": "A junctional rhythm with increased automaticity relative to the competing sinus pacemaker."
+    "definition": "A junctional rhythm with increased automaticity relative to the competing sinus pacemaker.",
+    "aliases": [
+      "Accelerated junctional rhythms"
+    ]
   },
   {
     "term": "AV dissociation",
@@ -286,7 +307,10 @@
   },
   {
     "term": "Flutter wave",
-    "definition": "A repetitive atrial deflection generated during atrial flutter."
+    "definition": "A repetitive atrial deflection generated during atrial flutter.",
+    "aliases": [
+      "Flutter waves"
+    ]
   },
   {
     "term": "2:1 conduction",
@@ -349,7 +373,10 @@
   },
   {
     "term": "Fusion beat",
-    "definition": "A QRS produced by combined ventricular activation from competing wavefronts."
+    "definition": "A QRS produced by combined ventricular activation from competing wavefronts.",
+    "aliases": [
+      "Fusion beats"
+    ]
   },
   {
     "term": "Precordial concordance",
@@ -381,7 +408,10 @@
   },
   {
     "term": "Non-conducted atrial premature beat",
-    "definition": "An early atrial depolarisation that is not followed by a ventricular QRS response."
+    "definition": "An early atrial depolarisation that is not followed by a ventricular QRS response.",
+    "aliases": [
+      "Non-conducted atrial premature beats"
+    ]
   },
   {
     "term": "Atrial bigeminy",
@@ -393,7 +423,10 @@
   },
   {
     "term": "Atrial tachycardia",
-    "definition": "A tachycardia originating in atrial tissue, often with organised atrial activity distinct from ordinary sinus rhythm."
+    "definition": "A tachycardia originating in atrial tissue, often with organised atrial activity distinct from ordinary sinus rhythm.",
+    "aliases": [
+      "Atrial tachycardias"
+    ]
   },
   {
     "term": "Broad-complex tachycardia",
@@ -429,7 +462,10 @@
   },
   {
     "term": "Pacing artefact",
-    "definition": "A recorded electrical stimulus from a pacemaker, often called a pacing spike."
+    "definition": "A recorded electrical stimulus from a pacemaker, often called a pacing spike.",
+    "aliases": [
+      "Pacing artefacts"
+    ]
   },
   {
     "term": "Bipolar pacing",
@@ -461,11 +497,17 @@
   },
   {
     "term": "Delta wave",
-    "definition": "Slurred initial QRS deflection caused by early ventricular myocardial activation during pre-excitation."
+    "definition": "Slurred initial QRS deflection caused by early ventricular myocardial activation during pre-excitation.",
+    "aliases": [
+      "Delta waves"
+    ]
   },
   {
     "term": "Accessory pathway",
-    "definition": "An additional electrical connection that can bypass part of the normal atrioventricular conduction route."
+    "definition": "An additional electrical connection that can bypass part of the normal atrioventricular conduction route.",
+    "aliases": [
+      "Accessory pathways"
+    ]
   },
   {
     "term": "Orthodromic AVRT",
@@ -485,7 +527,10 @@
   },
   {
     "term": "Negative delta wave",
-    "definition": "A downward slurred initial QRS deflection caused by the direction of pre-excited ventricular activation."
+    "definition": "A downward slurred initial QRS deflection caused by the direction of pre-excited ventricular activation.",
+    "aliases": [
+      "Negative delta waves"
+    ]
   },
   {
     "term": "Ischaemia",
@@ -501,7 +546,10 @@
   },
   {
     "term": "Reciprocal change",
-    "definition": "An opposite-direction ST change in leads viewing a region opposite the principal pattern."
+    "definition": "An opposite-direction ST change in leads viewing a region opposite the principal pattern.",
+    "aliases": [
+      "Reciprocal changes"
+    ]
   },
   {
     "term": "Posterior leads",
@@ -592,7 +640,10 @@
   },
   {
     "term": "Systemic association",
-    "definition": "A relationship between ECG changes and a disease outside the primary electrical system."
+    "definition": "A relationship between ECG changes and a disease outside the primary electrical system.",
+    "aliases": [
+      "Systemic associations"
+    ]
   },
   {
     "term": "Dextrocardia",
@@ -721,7 +772,10 @@
   },
   {
     "term": "ST segment",
-    "definition": "The portion from the end of QRS, at the J point, to the beginning of the T wave."
+    "definition": "The portion from the end of QRS, at the J point, to the beginning of the T wave.",
+    "aliases": [
+      "ST segments"
+    ]
   },
   {
     "term": "PR segment",
@@ -795,7 +849,10 @@
   },
   {
     "term": "RR interval",
-    "definition": "The time between consecutive R waves; in a regular rhythm, rate in beats/min equals 60 divided by RR in seconds."
+    "definition": "The time between consecutive R waves; in a regular rhythm, rate in beats/min equals 60 divided by RR in seconds.",
+    "aliases": [
+      "RR intervals"
+    ]
   },
   {
     "term": "Fridericia formula",
@@ -944,7 +1001,10 @@
   },
   {
     "term": "Atrial depolarisation",
-    "definition": "Electrical activation of atrial myocardium, normally represented by the P wave."
+    "definition": "Electrical activation of atrial myocardium, normally represented by the P wave.",
+    "aliases": [
+      "Atrial depolarisations"
+    ]
   },
   {
     "term": "Ventricular depolarisation",
@@ -1075,11 +1135,17 @@
   },
   {
     "term": "R wave",
-    "definition": "The first positive deflection in a QRS complex."
+    "definition": "The first positive deflection in a QRS complex.",
+    "aliases": [
+      "R waves"
+    ]
   },
   {
     "term": "S wave",
-    "definition": "A negative deflection following an R wave in the QRS complex."
+    "definition": "A negative deflection following an R wave in the QRS complex.",
+    "aliases": [
+      "S waves"
+    ]
   },
   {
     "term": "R prime",
@@ -1125,7 +1191,10 @@
   },
   {
     "term": "Junctional rhythm",
-    "definition": "A rhythm arising from the AV junctional region; P waves may be absent, hidden or retrograde."
+    "definition": "A rhythm arising from the AV junctional region; P waves may be absent, hidden or retrograde.",
+    "aliases": [
+      "Junctional rhythms"
+    ]
   },
   {
     "term": "Premature ventricular complex",
@@ -1302,15 +1371,24 @@
   },
   {
     "term": "Ventricular response",
-    "definition": "The timing and rate of ventricular activation in relation to the atrial rhythm and AV conduction."
+    "definition": "The timing and rate of ventricular activation in relation to the atrial rhythm and AV conduction.",
+    "aliases": [
+      "Ventricular responses"
+    ]
   },
   {
     "term": "Ventricular rhythm",
-    "definition": "The sequence of ventricular events; the phrase can describe their timing without necessarily proving a ventricular pacemaker origin."
+    "definition": "The sequence of ventricular events; the phrase can describe their timing without necessarily proving a ventricular pacemaker origin.",
+    "aliases": [
+      "Ventricular rhythms"
+    ]
   },
   {
     "term": "Ventricular tachycardia",
-    "definition": "A rapid rhythm originating in ventricular tissue; distinguishing it from supraventricular tachycardia with broad complexes requires systematic assessment."
+    "definition": "A rapid rhythm originating in ventricular tissue; distinguishing it from supraventricular tachycardia with broad complexes requires systematic assessment.",
+    "aliases": [
+      "Ventricular tachycardias"
+    ]
   },
   {
     "term": "Atrial impulse",
@@ -1321,11 +1399,17 @@
   },
   {
     "term": "Atrial rhythm",
-    "definition": "The rate, regularity and activation pattern of the atria, assessed separately from the ventricular sequence when possible."
+    "definition": "The rate, regularity and activation pattern of the atria, assessed separately from the ventricular sequence when possible.",
+    "aliases": [
+      "Atrial rhythms"
+    ]
   },
   {
     "term": "Bundle branch",
-    "definition": "A major conducting pathway carrying activation from the His bundle towards a ventricle."
+    "definition": "A major conducting pathway carrying activation from the His bundle towards a ventricle.",
+    "aliases": [
+      "Bundle branches"
+    ]
   },
   {
     "term": "Atrial activation",
@@ -1411,7 +1495,10 @@
   },
   {
     "term": "Rhythm strip",
-    "definition": "A continuous recording of one or more leads used to examine timing and rhythm; it does not replace all the information in a 12-lead ECG."
+    "definition": "A continuous recording of one or more leads used to examine timing and rhythm; it does not replace all the information in a 12-lead ECG.",
+    "aliases": [
+      "Rhythm strips"
+    ]
   },
   {
     "term": "Conduction disease",
@@ -1541,7 +1628,10 @@
   },
   {
     "term": "Repolarisation abnormality",
-    "definition": "An alteration in the recovery-related portion of the ECG, including ST–T changes; multiple physiological and pathological causes are possible."
+    "definition": "An alteration in the recovery-related portion of the ECG, including ST–T changes; multiple physiological and pathological causes are possible.",
+    "aliases": [
+      "Repolarisation abnormalities"
+    ]
   },
   {
     "term": "ST–T changes",
@@ -1644,7 +1734,10 @@
   },
   {
     "term": "Serial ECG",
-    "definition": "An ECG assessed alongside recordings obtained at other times to identify evolving, resolving or stable changes."
+    "definition": "An ECG assessed alongside recordings obtained at other times to identify evolving, resolving or stable changes.",
+    "aliases": [
+      "Serial ECGs"
+    ]
   },
   {
     "term": "Lead distribution",
@@ -1662,11 +1755,17 @@
   },
   {
     "term": "Surface ECG",
-    "definition": "An ECG recorded from body-surface electrodes, reflecting the combined effects of cardiac activity and the recording geometry."
+    "definition": "An ECG recorded from body-surface electrodes, reflecting the combined effects of cardiac activity and the recording geometry.",
+    "aliases": [
+      "Surface ECGs"
+    ]
   },
   {
     "term": "Lead I",
-    "definition": "The bipolar limb lead defined by left-arm potential minus right-arm potential, oriented at 0 degrees in the usual frontal reference system."
+    "definition": "The bipolar limb lead defined by left-arm potential minus right-arm potential, oriented at 0 degrees in the usual frontal reference system.",
+    "aliases": [
+      "Lead Is"
+    ]
   },
   {
     "term": "Lead II",
