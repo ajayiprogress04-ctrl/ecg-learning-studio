@@ -13,3 +13,5 @@ export class BoardHistory{
  redo(){if(!this.future.length)return false;this.past.push(this.value);this.value=this.future.pop();return true}
 }
 export function drawStroke(ctx,stroke,width,height,chalk=false){const points=stroke.points;if(!points.length)return;const size=stroke.size*width/1200;ctx.save();ctx.globalCompositeOperation=stroke.tool==='erase'?'destination-out':'source-over';ctx.globalAlpha=chalk&&stroke.tool!=='erase'?.84:1;ctx.strokeStyle=ctx.fillStyle=stroke.color;ctx.lineWidth=size;ctx.lineCap='round';ctx.lineJoin='round';if(points.length===1){ctx.beginPath();ctx.arc(points[0].x*width,points[0].y*height,size/2,0,Math.PI*2);ctx.fill()}else{ctx.beginPath();ctx.moveTo(points[0].x*width,points[0].y*height);for(const p of points.slice(1))ctx.lineTo(p.x*width,p.y*height);ctx.stroke()}ctx.restore()}
+
+export function strokeForMode(stroke,mode){const colours=BOARD_COLORS[mode]||BOARD_COLORS.black;let index=BOARD_COLORS.black.indexOf(stroke.color);if(index<0)index=BOARD_COLORS.white.indexOf(stroke.color);return index<0?stroke:{...stroke,color:colours[index]}}
