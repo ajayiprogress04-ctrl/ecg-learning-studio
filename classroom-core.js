@@ -1,0 +1,15 @@
+// The board stores only learner annotations. It never changes course answers or progress.
+export const BOARD_COLORS={black:['#fff8e7','#ffe082','#8de6d1','#ffb7d1'],white:['#18232b','#7e1738','#174f8b','#236144']};
+export const emptyBoard=()=>({strokes:[],notes:[]});
+export function normalPoint(x,y,rect){if(!rect.width||!rect.height)return null;return{x:Math.max(0,Math.min(1,(x-rect.left)/rect.width)),y:Math.max(0,Math.min(1,(y-rect.top)/rect.height))}}
+export function validBoard(value){if(!value||!Array.isArray(value.strokes)||value.strokes.length>300||!Array.isArray(value.notes)||value.notes.length>30)return emptyBoard();let count=0;const strokes=[];for(const s of value.strokes){if(!s||!['ink','erase'].includes(s.tool)||!/^#[\da-f]{6}$/i.test(s.color)||!Number.isFinite(s.size)||s.size<1||s.size>60||!Array.isArray(s.points)||!s.points.length||s.points.length>3000)return emptyBoard();count+=s.points.length;if(count>30000)return emptyBoard();if(s.points.some(p=>!Number.isFinite(p?.x)||!Number.isFinite(p?.y)||p.x<0||p.x>1||p.y<0||p.y>1))return emptyBoard();strokes.push({tool:s.tool,color:s.color,size:s.size,points:s.points.map(p=>({x:p.x,y:p.y}))})}return{strokes,notes:value.notes.filter(n=>typeof n==='string'&&n.length<=600).slice(0,30)}}
+export class BoardHistory{
+ constructor(value){this.value=validBoard(value||emptyBoard());this.past=[];this.future=[]}
+ change(next){this.past.push(structuredClone(this.value));if(this.past.length>40)this.past.shift();this.value=structuredClone(next);this.future=[]}
+ add(stroke){if(this.value.strokes.length>=300||this.value.strokes.reduce((n,s)=>n+s.points.length,0)+stroke.points.length>30000)throw Error('This board is full. Save a PNG, then clear the drawing to continue.');this.change({...this.value,strokes:[...this.value.strokes,stroke]})}
+ addNote(text){const note=String(text).trim();if(!note)return false;if(note.length>600||this.value.notes.length>=30)throw Error('Keep each note under 600 characters and use up to 30 notes per board.');this.change({...this.value,notes:[...this.value.notes,note]});return true}
+ clear(){if(this.value.strokes.length||this.value.notes.length)this.change(emptyBoard())}
+ undo(){if(!this.past.length)return false;this.future.push(this.value);this.value=this.past.pop();return true}
+ redo(){if(!this.future.length)return false;this.past.push(this.value);this.value=this.future.pop();return true}
+}
+export function drawStroke(ctx,stroke,width,height,chalk=false){const points=stroke.points;if(!points.length)return;const size=stroke.size*width/1200;ctx.save();ctx.globalCompositeOperation=stroke.tool==='erase'?'destination-out':'source-over';ctx.globalAlpha=chalk&&stroke.tool!=='erase'?.84:1;ctx.strokeStyle=ctx.fillStyle=stroke.color;ctx.lineWidth=size;ctx.lineCap='round';ctx.lineJoin='round';if(points.length===1){ctx.beginPath();ctx.arc(points[0].x*width,points[0].y*height,size/2,0,Math.PI*2);ctx.fill()}else{ctx.beginPath();ctx.moveTo(points[0].x*width,points[0].y*height);for(const p of points.slice(1))ctx.lineTo(p.x*width,p.y*height);ctx.stroke()}ctx.restore()}
